@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋 My Name is Christian. Thanks for visiting my Github!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=christian-porsch&show_icons=true&theme=tokyonight" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-porsch&theme=radical&layout=tokyonight" />
+
 
 <!--
 **christian-porsch/christian-porsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
